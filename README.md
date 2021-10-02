@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @THE-MACHINE221
-- 👀 I’m interested in DC and AI
+- 👀 I’m interested in DS and AI
 
 
 <!---
